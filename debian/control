@@ -1,0 +1,12 @@
+Source: ros-hydro-sicktoolbox
+Section: misc
+Priority: extra
+Maintainer: Chad Rockey <chadrockey@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin
+Homepage: http://sicktoolbox.sourceforge.net/
+Standards-Version: 3.9.2
+
+Package: ros-hydro-sicktoolbox
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: SICK Toolbox drivers for SICK laser rangefinders This package contains the ROS fork of the SICK LIDAR Matlab/C++ Toolbox, available from http://sicktoolbox.sourceforge.net/. The SICK LIDAR Matlab/C++ Toolbox offers stable and easy-to-use C++ drivers for SICK LMS 2xx and SICK LD LIDARs. Also included are config utilities, examples, and tutorials.
