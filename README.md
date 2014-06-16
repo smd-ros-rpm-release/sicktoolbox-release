@@ -1,3 +1,22 @@
+## sicktoolbox (hydro) - 1.0.103-2
+
+The packages in the `sicktoolbox` repository were released into the `hydro` distro by running `/usr/bin/bloom-release sicktoolbox -t hydro -r hydro` on `Mon, 16 Jun 2014 22:20:47 -0000`
+
+The `sicktoolbox` package was released.
+
+Version of package(s) in repository `sicktoolbox`:
+- rosdistro version: `1.0.103-0`
+- old version: `1.0.103-1`
+- new version: `1.0.103-2`
+
+Versions of tools used:
+- bloom version: `0.5.10`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.0`
+- vcstools version: `0.1.33`
+
+
 ## sicktoolbox (hydro) - 1.0.103-1
 
 The packages in the `sicktoolbox` repository were released into the `hydro` distro by running `/usr/bin/bloom-release sicktoolbox -t hydro -r hydro` on `Mon, 16 Jun 2014 22:13:29 -0000`
